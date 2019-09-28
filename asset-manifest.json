@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/akarafotis/codeHubTest.git/static/css/main.b100e6da.chunk.css",
-    "main.js": "/akarafotis/codeHubTest.git/static/js/main.7212e945.chunk.js",
-    "main.js.map": "/akarafotis/codeHubTest.git/static/js/main.7212e945.chunk.js.map",
-    "runtime-main.js": "/akarafotis/codeHubTest.git/static/js/runtime-main.99d82895.js",
-    "runtime-main.js.map": "/akarafotis/codeHubTest.git/static/js/runtime-main.99d82895.js.map",
-    "static/js/2.1caea5c3.chunk.js": "/akarafotis/codeHubTest.git/static/js/2.1caea5c3.chunk.js",
-    "static/js/2.1caea5c3.chunk.js.map": "/akarafotis/codeHubTest.git/static/js/2.1caea5c3.chunk.js.map",
-    "index.html": "/akarafotis/codeHubTest.git/index.html",
-    "precache-manifest.ea1e847986adf45f74d9136260456f0e.js": "/akarafotis/codeHubTest.git/precache-manifest.ea1e847986adf45f74d9136260456f0e.js",
-    "service-worker.js": "/akarafotis/codeHubTest.git/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/akarafotis/codeHubTest.git/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/akarafotis/codeHubTest.git/static/media/logo.25bf045c.svg"
+    "main.css": "/codeHubTest/static/css/main.b100e6da.chunk.css",
+    "main.js": "/codeHubTest/static/js/main.9a654af4.chunk.js",
+    "main.js.map": "/codeHubTest/static/js/main.9a654af4.chunk.js.map",
+    "runtime-main.js": "/codeHubTest/static/js/runtime-main.27d96b6a.js",
+    "runtime-main.js.map": "/codeHubTest/static/js/runtime-main.27d96b6a.js.map",
+    "static/js/2.1caea5c3.chunk.js": "/codeHubTest/static/js/2.1caea5c3.chunk.js",
+    "static/js/2.1caea5c3.chunk.js.map": "/codeHubTest/static/js/2.1caea5c3.chunk.js.map",
+    "index.html": "/codeHubTest/index.html",
+    "precache-manifest.1420208add2301444fcd66ab67d59577.js": "/codeHubTest/precache-manifest.1420208add2301444fcd66ab67d59577.js",
+    "service-worker.js": "/codeHubTest/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/codeHubTest/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/codeHubTest/static/media/logo.25bf045c.svg"
   }
 }
